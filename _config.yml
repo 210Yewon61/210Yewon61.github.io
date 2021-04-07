@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "정예원"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/아바타.png"
   bio              : "용인한국외국어대학교부설고등학교 재학생"
   location         : "대한민국, 용인"
   email            : "21-21061@hafs.hs.kr"
